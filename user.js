@@ -46,6 +46,34 @@ module.exports = {
         relation: 'parent',
         gender: 'male'
       }
+    ],
+
+    restaurants: [
+      {
+        name: "Torchys",
+        rating: 4
+      },
+
+      {
+        name: "Oceanaire",
+        rating: 4.5
+      },
+
+      {
+        name: "Hot Dog Joes",
+        rating: 3
+      }
+    ],
+
+    skills: [
+      {
+        id: 1,
+        name: "Javascript",
+        experience: "intermediate"
+      }
     ]
+
+
+
 
 };
